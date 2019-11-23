@@ -1,0 +1,1 @@
+Apesar de o logaritmo natural ser usualmente chamado de logaritmo neperiano, do nome de seu inventor, o matemático escocês John Napier (ou John Naper), este utilizou a base 1/e e não a base e. É, portanto, a função inversa da função exponencial.
