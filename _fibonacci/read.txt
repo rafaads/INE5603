@@ -1,0 +1,12 @@
+A sequência de Fibonacci consiste em números inteiros, iniciando normalmente por 0 e 1, na qual,
+cada termo subsequente corresponde à soma dos dois anteriores:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ...
+Em termos matem´aticos:
+
+ Para n == 0 , F0 = 0
+ Para n == 1 , F1 = 1
+ Para n > 1 , Fn = Fn-1 + Fn-2
+
+Implemente um método, denominado public int fibo(int n), que receba, como entrada, o valor de
+n e retorne o c´alculo de Fn. Por exemplo, se n = 10, F10 = F9 + F8 = 34 + 21 = 55, ou seja, o m´etodo
+deve retornar 55.
